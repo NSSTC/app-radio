@@ -187,5 +187,5 @@ const AppRadio: IAppRadio = class AppRadio {
     }
 };
 
-export AppRadio;
+export {AppRadio};
 export default AppRadio;
